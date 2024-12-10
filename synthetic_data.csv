@@ -1,0 +1,1001 @@
+Gender,Marital Status,Age,Income,Purchased Frequency,Common Items
+Female,Married,25,Medium,Once,Earrings
+Female,Unmarried,19,High,Once,Rings
+Female,Married,38,High,Once,Earrings
+Male,Married,43,Medium,Once,Rings
+Male,Married,49,High,Once,Rings
+Female,Unmarried,35,Medium,Once,Rings
+Female,Married,46,Medium,Once,Earrings
+Female,Unmarried,35,High,Twice in a year,Bracelets
+Female,Unmarried,22,High,Twice in a year,Rings
+Male,Unmarried,34,Medium,Once,Rings
+Male,Married,34,High,Twice in a year,Earrings
+Female,Unmarried,25,Medium,Once,Bracelets
+Female,Married,27,High,Once,Bracelets
+Male,Married,48,Medium,Once,Bracelets
+Female,Married,28,High,Twice in a year,Rings
+Male,Unmarried,23,Medium,Twice in a year,Rings
+Male,Married,44,High,Twice in a year,Earrings
+Female,Unmarried,50,Medium,Once,Earrings
+Male,Unmarried,43,Medium,Twice in a year,Bracelets
+Male,Unmarried,45,Medium,Once,Bracelets
+Female,Unmarried,49,High,Twice in a year,Earrings
+Female,Unmarried,18,High,Twice in a year,Earrings
+Female,Married,49,Medium,Once,Bracelets
+Female,Married,36,Medium,Once,Bracelets
+Female,Married,47,Medium,Twice in a year,Earrings
+Female,Married,20,Medium,Once,Rings
+Male,Unmarried,30,High,Twice in a year,Earrings
+Female,Unmarried,26,Medium,Twice in a year,Earrings
+Female,Married,24,Medium,Twice in a year,Earrings
+Male,Married,33,Medium,Once,Rings
+Male,Unmarried,35,High,Once,Earrings
+Female,Unmarried,41,Medium,Once,Earrings
+Female,Unmarried,18,High,Twice in a year,Rings
+Female,Married,49,High,Once,Rings
+Female,Unmarried,22,Medium,Once,Rings
+Male,Unmarried,38,Medium,Once,Bracelets
+Female,Married,44,Medium,Once,Earrings
+Male,Married,43,Medium,Twice in a year,Earrings
+Male,Married,35,High,Twice in a year,Earrings
+Female,Unmarried,25,High,Once,Earrings
+Female,Unmarried,40,High,Once,Rings
+Male,Married,49,High,Twice in a year,Earrings
+Female,Married,40,Medium,Once,Bracelets
+Male,Married,46,Medium,Twice in a year,Rings
+Male,Unmarried,18,Medium,Once,Earrings
+Male,Unmarried,44,High,Twice in a year,Rings
+Male,Married,29,Medium,Twice in a year,Bracelets
+Female,Unmarried,46,Medium,Twice in a year,Bracelets
+Female,Unmarried,46,High,Once,Earrings
+Female,Unmarried,20,Medium,Twice in a year,Bracelets
+Female,Unmarried,22,High,Once,Rings
+Female,Unmarried,39,Medium,Twice in a year,Rings
+Female,Married,20,Medium,Once,Earrings
+Female,Unmarried,44,Medium,Twice in a year,Earrings
+Male,Unmarried,43,Medium,Twice in a year,Earrings
+Female,Married,19,High,Once,Earrings
+Male,Unmarried,38,High,Twice in a year,Rings
+Female,Unmarried,29,High,Twice in a year,Earrings
+Male,Unmarried,46,Medium,Once,Bracelets
+Male,Unmarried,22,Medium,Once,Bracelets
+Female,Unmarried,40,Medium,Twice in a year,Bracelets
+Female,Married,35,Medium,Twice in a year,Rings
+Male,Married,46,Medium,Once,Rings
+Female,Unmarried,31,Medium,Once,Rings
+Male,Married,20,Medium,Twice in a year,Bracelets
+Female,Married,36,Medium,Once,Rings
+Female,Unmarried,31,High,Twice in a year,Bracelets
+Male,Unmarried,32,Medium,Once,Rings
+Male,Unmarried,22,High,Once,Rings
+Male,Married,41,Medium,Twice in a year,Bracelets
+Female,Married,36,High,Twice in a year,Earrings
+Male,Unmarried,28,High,Twice in a year,Bracelets
+Male,Unmarried,39,High,Once,Bracelets
+Female,Unmarried,34,High,Twice in a year,Bracelets
+Male,Married,29,High,Twice in a year,Earrings
+Female,Unmarried,31,Medium,Once,Rings
+Male,Married,47,High,Once,Earrings
+Female,Unmarried,37,Medium,Once,Rings
+Female,Married,37,Medium,Once,Rings
+Male,Unmarried,23,High,Twice in a year,Bracelets
+Female,Married,47,High,Twice in a year,Earrings
+Female,Married,31,Medium,Once,Earrings
+Female,Unmarried,34,Medium,Twice in a year,Bracelets
+Female,Married,22,High,Once,Bracelets
+Female,Married,40,High,Twice in a year,Earrings
+Female,Married,50,Medium,Twice in a year,Rings
+Male,Married,39,High,Twice in a year,Earrings
+Male,Unmarried,27,High,Twice in a year,Earrings
+Female,Married,18,Medium,Twice in a year,Bracelets
+Female,Married,50,Medium,Once,Bracelets
+Female,Unmarried,46,High,Once,Earrings
+Male,Unmarried,45,High,Twice in a year,Earrings
+Female,Unmarried,42,Medium,Once,Rings
+Female,Unmarried,50,Medium,Twice in a year,Bracelets
+Female,Unmarried,40,High,Once,Earrings
+Male,Married,33,High,Twice in a year,Bracelets
+Male,Unmarried,37,Medium,Twice in a year,Earrings
+Male,Unmarried,46,Medium,Once,Rings
+Male,Unmarried,33,Medium,Once,Bracelets
+Male,Married,30,Medium,Twice in a year,Bracelets
+Male,Unmarried,42,Medium,Twice in a year,Rings
+Male,Unmarried,49,Medium,Twice in a year,Earrings
+Male,Unmarried,39,High,Once,Earrings
+Male,Married,28,Medium,Twice in a year,Rings
+Female,Unmarried,50,High,Once,Bracelets
+Female,Unmarried,44,Medium,Once,Bracelets
+Female,Married,35,Medium,Twice in a year,Earrings
+Male,Married,28,High,Twice in a year,Earrings
+Female,Married,42,Medium,Once,Rings
+Male,Married,36,Medium,Twice in a year,Earrings
+Female,Married,35,High,Once,Earrings
+Male,Unmarried,43,Medium,Once,Earrings
+Female,Unmarried,39,High,Once,Bracelets
+Male,Married,24,High,Twice in a year,Earrings
+Male,Married,47,High,Once,Earrings
+Male,Unmarried,44,High,Once,Earrings
+Male,Married,38,High,Once,Earrings
+Male,Married,39,High,Once,Earrings
+Female,Married,35,Medium,Once,Rings
+Male,Married,31,Medium,Twice in a year,Rings
+Female,Unmarried,39,Medium,Twice in a year,Rings
+Female,Unmarried,39,High,Once,Rings
+Male,Married,45,High,Twice in a year,Rings
+Male,Married,41,High,Twice in a year,Bracelets
+Female,Married,40,Medium,Twice in a year,Earrings
+Female,Unmarried,50,Medium,Twice in a year,Rings
+Female,Unmarried,49,High,Once,Earrings
+Female,Married,19,High,Twice in a year,Bracelets
+Male,Married,36,High,Once,Rings
+Female,Married,38,High,Once,Earrings
+Male,Married,37,Medium,Once,Earrings
+Male,Unmarried,33,High,Twice in a year,Bracelets
+Male,Married,39,High,Once,Earrings
+Male,Married,42,High,Twice in a year,Bracelets
+Male,Married,20,High,Twice in a year,Bracelets
+Female,Married,36,High,Twice in a year,Rings
+Female,Married,30,High,Once,Bracelets
+Male,Unmarried,39,High,Once,Bracelets
+Female,Married,26,Medium,Once,Rings
+Female,Unmarried,31,Medium,Twice in a year,Bracelets
+Male,Unmarried,24,Medium,Twice in a year,Earrings
+Female,Unmarried,25,High,Once,Bracelets
+Female,Married,32,High,Once,Bracelets
+Male,Married,28,Medium,Once,Earrings
+Female,Married,37,High,Once,Earrings
+Female,Unmarried,19,High,Once,Rings
+Female,Married,30,Medium,Twice in a year,Earrings
+Female,Married,38,High,Twice in a year,Rings
+Male,Unmarried,34,Medium,Once,Rings
+Female,Unmarried,35,Medium,Once,Earrings
+Female,Married,48,Medium,Twice in a year,Rings
+Female,Married,22,High,Twice in a year,Earrings
+Male,Married,42,Medium,Once,Earrings
+Male,Unmarried,19,High,Once,Earrings
+Male,Unmarried,22,Medium,Once,Bracelets
+Female,Married,23,High,Once,Rings
+Female,Unmarried,21,High,Twice in a year,Bracelets
+Male,Unmarried,33,High,Twice in a year,Bracelets
+Female,Unmarried,48,High,Once,Earrings
+Male,Unmarried,42,Medium,Once,Earrings
+Male,Unmarried,46,Medium,Once,Bracelets
+Male,Married,18,Medium,Twice in a year,Rings
+Male,Unmarried,18,High,Twice in a year,Earrings
+Female,Married,44,Medium,Twice in a year,Rings
+Female,Married,18,High,Once,Earrings
+Female,Married,37,High,Twice in a year,Earrings
+Male,Unmarried,19,High,Twice in a year,Rings
+Female,Unmarried,43,Medium,Once,Bracelets
+Female,Unmarried,32,Medium,Twice in a year,Bracelets
+Female,Married,42,High,Once,Earrings
+Female,Unmarried,18,High,Twice in a year,Earrings
+Female,Unmarried,32,High,Once,Bracelets
+Male,Unmarried,39,Medium,Twice in a year,Rings
+Male,Unmarried,47,High,Once,Rings
+Female,Married,49,Medium,Once,Rings
+Female,Unmarried,49,Medium,Twice in a year,Rings
+Male,Married,29,Medium,Once,Earrings
+Female,Unmarried,27,Medium,Twice in a year,Earrings
+Female,Unmarried,34,High,Twice in a year,Bracelets
+Male,Married,27,High,Once,Bracelets
+Male,Unmarried,40,High,Twice in a year,Rings
+Female,Married,33,High,Twice in a year,Rings
+Male,Unmarried,44,Medium,Once,Earrings
+Female,Unmarried,19,Medium,Once,Earrings
+Male,Unmarried,26,Medium,Twice in a year,Rings
+Female,Married,28,High,Once,Earrings
+Male,Unmarried,32,High,Once,Rings
+Female,Married,21,High,Once,Rings
+Female,Married,28,Medium,Once,Rings
+Male,Unmarried,23,Medium,Twice in a year,Earrings
+Male,Married,43,Medium,Twice in a year,Earrings
+Male,Unmarried,32,High,Twice in a year,Rings
+Female,Married,42,Medium,Once,Earrings
+Male,Unmarried,22,High,Once,Rings
+Female,Married,38,Medium,Twice in a year,Rings
+Female,Married,27,Medium,Once,Rings
+Male,Unmarried,28,High,Once,Bracelets
+Female,Unmarried,27,Medium,Once,Bracelets
+Female,Unmarried,25,Medium,Once,Rings
+Female,Unmarried,47,High,Twice in a year,Earrings
+Female,Unmarried,24,Medium,Twice in a year,Bracelets
+Male,Unmarried,29,Medium,Once,Rings
+Female,Unmarried,26,Medium,Once,Earrings
+Male,Unmarried,42,Medium,Once,Earrings
+Female,Married,29,High,Once,Bracelets
+Female,Unmarried,22,Medium,Once,Earrings
+Female,Married,23,Medium,Once,Bracelets
+Female,Married,28,Medium,Twice in a year,Bracelets
+Male,Unmarried,31,High,Once,Rings
+Female,Married,24,High,Twice in a year,Bracelets
+Male,Unmarried,31,High,Twice in a year,Bracelets
+Male,Unmarried,28,High,Twice in a year,Rings
+Male,Unmarried,27,High,Once,Earrings
+Male,Unmarried,36,High,Twice in a year,Earrings
+Male,Unmarried,47,Medium,Twice in a year,Rings
+Female,Married,27,Medium,Twice in a year,Bracelets
+Female,Married,29,High,Once,Rings
+Female,Married,41,Medium,Once,Earrings
+Male,Unmarried,23,Medium,Once,Bracelets
+Male,Unmarried,47,High,Twice in a year,Rings
+Male,Married,19,High,Once,Earrings
+Female,Married,49,High,Once,Bracelets
+Male,Unmarried,23,High,Once,Earrings
+Female,Married,39,Medium,Twice in a year,Rings
+Male,Unmarried,23,Medium,Twice in a year,Rings
+Female,Married,45,High,Once,Earrings
+Female,Married,44,High,Once,Bracelets
+Male,Married,37,Medium,Once,Earrings
+Male,Married,34,Medium,Twice in a year,Earrings
+Male,Unmarried,29,High,Twice in a year,Rings
+Female,Married,34,Medium,Once,Bracelets
+Female,Married,19,High,Twice in a year,Earrings
+Male,Unmarried,21,Medium,Twice in a year,Rings
+Female,Married,39,Medium,Once,Bracelets
+Female,Unmarried,34,Medium,Once,Earrings
+Female,Married,22,High,Once,Bracelets
+Male,Unmarried,27,Medium,Twice in a year,Rings
+Male,Married,42,Medium,Once,Rings
+Male,Unmarried,21,High,Once,Earrings
+Male,Unmarried,19,Medium,Twice in a year,Rings
+Female,Unmarried,34,Medium,Once,Earrings
+Female,Married,44,Medium,Twice in a year,Rings
+Male,Married,24,Medium,Once,Rings
+Female,Unmarried,26,High,Once,Rings
+Female,Unmarried,35,High,Once,Bracelets
+Female,Married,18,Medium,Once,Bracelets
+Male,Unmarried,50,Medium,Once,Earrings
+Male,Married,25,High,Twice in a year,Bracelets
+Male,Unmarried,29,High,Once,Earrings
+Female,Unmarried,28,Medium,Once,Earrings
+Female,Unmarried,26,Medium,Twice in a year,Earrings
+Male,Unmarried,38,Medium,Once,Earrings
+Female,Unmarried,38,Medium,Twice in a year,Bracelets
+Male,Unmarried,24,Medium,Twice in a year,Earrings
+Female,Unmarried,42,High,Twice in a year,Rings
+Male,Married,32,Medium,Twice in a year,Bracelets
+Male,Unmarried,20,High,Once,Earrings
+Female,Unmarried,44,High,Once,Bracelets
+Female,Married,50,Medium,Once,Rings
+Male,Married,43,Medium,Twice in a year,Bracelets
+Female,Unmarried,30,High,Twice in a year,Bracelets
+Male,Unmarried,49,High,Twice in a year,Bracelets
+Female,Married,24,Medium,Twice in a year,Rings
+Female,Unmarried,40,Medium,Once,Earrings
+Male,Unmarried,34,Medium,Once,Earrings
+Male,Unmarried,20,Medium,Twice in a year,Rings
+Male,Married,19,Medium,Twice in a year,Bracelets
+Male,Unmarried,50,Medium,Once,Bracelets
+Female,Married,46,Medium,Once,Rings
+Male,Married,36,Medium,Once,Bracelets
+Female,Married,46,Medium,Once,Earrings
+Female,Unmarried,43,High,Once,Earrings
+Female,Married,26,High,Once,Bracelets
+Male,Unmarried,38,High,Twice in a year,Rings
+Male,Married,31,High,Once,Rings
+Female,Married,47,Medium,Twice in a year,Bracelets
+Female,Married,37,High,Twice in a year,Bracelets
+Male,Married,42,Medium,Once,Bracelets
+Female,Married,35,Medium,Once,Earrings
+Male,Married,46,Medium,Once,Earrings
+Male,Unmarried,25,High,Twice in a year,Rings
+Male,Unmarried,28,Medium,Twice in a year,Rings
+Female,Married,30,Medium,Twice in a year,Earrings
+Female,Married,34,Medium,Once,Bracelets
+Male,Unmarried,49,High,Twice in a year,Bracelets
+Female,Unmarried,37,Medium,Twice in a year,Earrings
+Male,Unmarried,46,Medium,Twice in a year,Rings
+Female,Unmarried,30,Medium,Twice in a year,Earrings
+Female,Married,50,Medium,Once,Bracelets
+Male,Unmarried,36,High,Once,Rings
+Female,Unmarried,24,High,Once,Bracelets
+Male,Married,33,High,Once,Rings
+Male,Unmarried,24,Medium,Once,Bracelets
+Male,Married,28,Medium,Twice in a year,Rings
+Female,Married,41,High,Once,Rings
+Female,Unmarried,31,Medium,Twice in a year,Earrings
+Female,Married,46,High,Twice in a year,Bracelets
+Female,Married,45,High,Once,Bracelets
+Female,Married,20,High,Once,Bracelets
+Female,Unmarried,42,Medium,Twice in a year,Earrings
+Female,Married,23,Medium,Once,Bracelets
+Female,Unmarried,26,Medium,Twice in a year,Bracelets
+Male,Married,49,Medium,Once,Bracelets
+Female,Unmarried,46,High,Twice in a year,Earrings
+Female,Unmarried,44,High,Twice in a year,Earrings
+Female,Married,22,Medium,Twice in a year,Earrings
+Male,Unmarried,18,Medium,Twice in a year,Earrings
+Male,Married,22,Medium,Twice in a year,Earrings
+Female,Unmarried,23,Medium,Twice in a year,Rings
+Female,Unmarried,20,High,Twice in a year,Earrings
+Female,Unmarried,29,High,Twice in a year,Earrings
+Male,Unmarried,34,Medium,Twice in a year,Bracelets
+Male,Unmarried,24,High,Twice in a year,Rings
+Female,Married,18,High,Twice in a year,Earrings
+Female,Married,38,High,Twice in a year,Rings
+Male,Unmarried,31,Medium,Once,Rings
+Male,Unmarried,19,High,Once,Bracelets
+Female,Married,44,High,Twice in a year,Bracelets
+Male,Unmarried,21,High,Twice in a year,Earrings
+Female,Unmarried,25,Medium,Once,Rings
+Male,Unmarried,43,High,Once,Earrings
+Female,Married,27,High,Once,Rings
+Male,Married,22,High,Once,Bracelets
+Female,Unmarried,28,High,Once,Earrings
+Male,Married,28,Medium,Once,Earrings
+Male,Unmarried,29,Medium,Once,Bracelets
+Male,Married,37,High,Once,Earrings
+Female,Unmarried,19,High,Once,Bracelets
+Female,Unmarried,30,Medium,Twice in a year,Bracelets
+Female,Unmarried,27,Medium,Once,Bracelets
+Male,Married,29,High,Twice in a year,Rings
+Female,Married,48,High,Twice in a year,Rings
+Male,Married,38,High,Twice in a year,Rings
+Female,Unmarried,30,High,Once,Rings
+Male,Unmarried,30,Medium,Twice in a year,Rings
+Female,Unmarried,26,High,Once,Earrings
+Male,Married,40,Medium,Twice in a year,Rings
+Female,Unmarried,19,High,Twice in a year,Bracelets
+Male,Married,25,High,Twice in a year,Bracelets
+Male,Unmarried,20,High,Once,Bracelets
+Female,Unmarried,46,Medium,Once,Rings
+Male,Unmarried,26,High,Once,Rings
+Male,Unmarried,43,High,Twice in a year,Earrings
+Male,Unmarried,36,Medium,Twice in a year,Bracelets
+Male,Married,34,Medium,Once,Rings
+Female,Married,25,High,Once,Bracelets
+Male,Married,26,Medium,Once,Earrings
+Male,Married,48,Medium,Twice in a year,Rings
+Male,Married,49,Medium,Twice in a year,Bracelets
+Female,Unmarried,19,High,Twice in a year,Earrings
+Female,Unmarried,42,Medium,Once,Bracelets
+Male,Unmarried,28,High,Once,Bracelets
+Female,Unmarried,22,High,Once,Rings
+Female,Married,33,High,Twice in a year,Bracelets
+Female,Unmarried,40,High,Twice in a year,Earrings
+Female,Married,34,High,Twice in a year,Earrings
+Male,Unmarried,32,Medium,Once,Bracelets
+Male,Married,36,High,Twice in a year,Earrings
+Male,Married,36,High,Once,Bracelets
+Female,Unmarried,46,High,Twice in a year,Rings
+Male,Married,38,High,Once,Rings
+Female,Unmarried,40,High,Twice in a year,Rings
+Male,Married,33,Medium,Once,Rings
+Male,Unmarried,31,Medium,Twice in a year,Earrings
+Male,Unmarried,26,Medium,Twice in a year,Rings
+Male,Unmarried,31,Medium,Once,Earrings
+Male,Married,48,High,Once,Bracelets
+Male,Married,25,High,Once,Bracelets
+Female,Unmarried,31,High,Twice in a year,Earrings
+Male,Unmarried,27,High,Once,Rings
+Female,Unmarried,20,High,Once,Bracelets
+Female,Married,43,Medium,Twice in a year,Rings
+Male,Unmarried,21,Medium,Once,Bracelets
+Male,Unmarried,26,Medium,Once,Bracelets
+Female,Married,35,High,Twice in a year,Bracelets
+Female,Married,30,High,Twice in a year,Rings
+Male,Unmarried,45,High,Once,Earrings
+Male,Unmarried,43,High,Once,Rings
+Female,Married,33,Medium,Twice in a year,Earrings
+Female,Married,35,Medium,Twice in a year,Rings
+Male,Married,47,High,Twice in a year,Earrings
+Female,Unmarried,31,Medium,Once,Bracelets
+Female,Married,32,Medium,Once,Earrings
+Male,Married,32,High,Twice in a year,Earrings
+Female,Unmarried,41,Medium,Once,Earrings
+Female,Married,27,Medium,Once,Rings
+Male,Married,46,High,Once,Bracelets
+Male,Married,26,Medium,Twice in a year,Rings
+Female,Unmarried,32,High,Twice in a year,Bracelets
+Male,Unmarried,49,High,Twice in a year,Rings
+Female,Unmarried,43,Medium,Once,Earrings
+Male,Married,35,High,Once,Rings
+Male,Married,41,High,Twice in a year,Earrings
+Male,Unmarried,30,Medium,Once,Earrings
+Male,Married,46,High,Twice in a year,Bracelets
+Male,Unmarried,18,Medium,Twice in a year,Bracelets
+Male,Married,24,High,Twice in a year,Rings
+Female,Married,21,High,Once,Rings
+Female,Married,36,High,Twice in a year,Earrings
+Female,Unmarried,36,Medium,Twice in a year,Rings
+Male,Unmarried,38,Medium,Once,Rings
+Female,Married,34,High,Once,Rings
+Female,Married,28,High,Twice in a year,Earrings
+Male,Married,43,High,Once,Bracelets
+Female,Unmarried,46,Medium,Once,Earrings
+Female,Unmarried,21,Medium,Once,Bracelets
+Female,Married,29,High,Once,Bracelets
+Male,Unmarried,49,Medium,Once,Bracelets
+Male,Married,25,High,Once,Rings
+Male,Unmarried,36,High,Once,Bracelets
+Male,Married,45,High,Twice in a year,Earrings
+Female,Unmarried,19,High,Twice in a year,Earrings
+Female,Unmarried,36,High,Twice in a year,Rings
+Male,Married,19,Medium,Twice in a year,Earrings
+Male,Unmarried,47,Medium,Twice in a year,Bracelets
+Male,Married,18,High,Once,Rings
+Female,Unmarried,34,Medium,Twice in a year,Earrings
+Female,Unmarried,35,Medium,Twice in a year,Bracelets
+Male,Married,35,Medium,Once,Earrings
+Male,Unmarried,41,Medium,Twice in a year,Earrings
+Female,Unmarried,33,High,Twice in a year,Earrings
+Female,Unmarried,37,High,Twice in a year,Earrings
+Female,Unmarried,40,High,Once,Earrings
+Female,Married,29,Medium,Once,Rings
+Male,Married,35,High,Once,Rings
+Female,Married,43,High,Twice in a year,Earrings
+Male,Unmarried,43,Medium,Once,Earrings
+Male,Unmarried,21,Medium,Twice in a year,Rings
+Female,Married,46,Medium,Once,Rings
+Female,Married,36,High,Twice in a year,Rings
+Male,Married,31,Medium,Twice in a year,Earrings
+Male,Married,44,Medium,Twice in a year,Bracelets
+Female,Unmarried,31,High,Once,Earrings
+Female,Unmarried,27,High,Twice in a year,Earrings
+Male,Married,26,Medium,Twice in a year,Bracelets
+Female,Unmarried,43,Medium,Twice in a year,Bracelets
+Male,Unmarried,49,Medium,Twice in a year,Rings
+Female,Married,46,Medium,Twice in a year,Rings
+Male,Unmarried,29,Medium,Once,Rings
+Male,Married,47,High,Twice in a year,Rings
+Male,Married,38,High,Once,Earrings
+Male,Married,46,High,Twice in a year,Rings
+Female,Married,25,Medium,Once,Earrings
+Male,Married,30,Medium,Twice in a year,Rings
+Female,Married,19,Medium,Twice in a year,Bracelets
+Male,Married,40,High,Once,Rings
+Male,Unmarried,42,Medium,Twice in a year,Bracelets
+Male,Married,28,Medium,Twice in a year,Earrings
+Female,Married,42,Medium,Twice in a year,Rings
+Male,Married,42,High,Once,Rings
+Female,Unmarried,33,Medium,Once,Earrings
+Female,Married,35,Medium,Once,Bracelets
+Female,Married,35,Medium,Twice in a year,Earrings
+Female,Married,24,Medium,Once,Bracelets
+Female,Married,19,Medium,Twice in a year,Rings
+Male,Married,29,Medium,Once,Rings
+Female,Unmarried,32,Medium,Twice in a year,Bracelets
+Male,Unmarried,50,High,Once,Earrings
+Male,Unmarried,28,Medium,Twice in a year,Rings
+Female,Unmarried,30,High,Once,Earrings
+Female,Married,38,High,Once,Earrings
+Male,Married,19,High,Twice in a year,Earrings
+Female,Married,30,High,Twice in a year,Earrings
+Male,Married,24,Medium,Once,Bracelets
+Female,Unmarried,18,Medium,Twice in a year,Earrings
+Male,Married,20,Medium,Twice in a year,Earrings
+Female,Married,20,Medium,Once,Rings
+Female,Married,19,High,Twice in a year,Rings
+Male,Married,48,Medium,Twice in a year,Rings
+Female,Unmarried,21,Medium,Twice in a year,Rings
+Female,Unmarried,21,High,Twice in a year,Bracelets
+Male,Unmarried,33,High,Once,Earrings
+Female,Unmarried,42,Medium,Once,Earrings
+Female,Married,43,Medium,Twice in a year,Rings
+Male,Married,45,High,Twice in a year,Earrings
+Female,Unmarried,50,High,Twice in a year,Bracelets
+Female,Married,43,Medium,Twice in a year,Bracelets
+Female,Married,37,High,Twice in a year,Earrings
+Female,Unmarried,26,Medium,Once,Earrings
+Male,Unmarried,44,High,Once,Bracelets
+Female,Married,28,High,Once,Earrings
+Male,Unmarried,24,Medium,Twice in a year,Rings
+Male,Married,35,Medium,Once,Bracelets
+Male,Married,30,Medium,Once,Bracelets
+Female,Unmarried,28,High,Twice in a year,Bracelets
+Male,Married,24,Medium,Twice in a year,Earrings
+Female,Unmarried,32,High,Once,Bracelets
+Female,Unmarried,21,Medium,Once,Rings
+Female,Unmarried,47,Medium,Twice in a year,Bracelets
+Male,Unmarried,37,Medium,Once,Earrings
+Male,Married,50,High,Twice in a year,Rings
+Male,Married,42,High,Twice in a year,Bracelets
+Male,Unmarried,23,High,Once,Earrings
+Male,Married,50,High,Twice in a year,Earrings
+Male,Unmarried,37,Medium,Once,Earrings
+Male,Unmarried,23,High,Twice in a year,Bracelets
+Female,Married,37,Medium,Twice in a year,Rings
+Female,Unmarried,45,High,Once,Bracelets
+Male,Unmarried,45,High,Twice in a year,Bracelets
+Female,Married,40,High,Twice in a year,Earrings
+Male,Married,34,High,Once,Bracelets
+Female,Married,19,High,Once,Rings
+Female,Unmarried,33,High,Twice in a year,Rings
+Male,Married,38,High,Once,Rings
+Female,Married,32,Medium,Twice in a year,Bracelets
+Female,Unmarried,30,High,Once,Rings
+Male,Married,47,High,Twice in a year,Earrings
+Male,Married,48,High,Twice in a year,Bracelets
+Female,Unmarried,38,Medium,Twice in a year,Rings
+Female,Married,25,High,Once,Bracelets
+Male,Unmarried,21,High,Twice in a year,Bracelets
+Male,Unmarried,46,High,Twice in a year,Rings
+Male,Unmarried,25,Medium,Twice in a year,Earrings
+Female,Unmarried,20,High,Once,Earrings
+Female,Unmarried,25,Medium,Twice in a year,Bracelets
+Female,Married,49,Medium,Twice in a year,Rings
+Male,Unmarried,22,Medium,Once,Earrings
+Male,Married,25,High,Twice in a year,Rings
+Female,Married,30,Medium,Twice in a year,Earrings
+Male,Unmarried,19,High,Once,Bracelets
+Male,Married,43,Medium,Twice in a year,Rings
+Male,Unmarried,29,Medium,Once,Earrings
+Female,Unmarried,37,Medium,Once,Bracelets
+Male,Married,34,Medium,Once,Earrings
+Female,Married,44,High,Once,Bracelets
+Male,Married,24,Medium,Once,Bracelets
+Male,Married,34,Medium,Once,Bracelets
+Male,Unmarried,50,High,Twice in a year,Bracelets
+Female,Married,24,Medium,Once,Earrings
+Female,Unmarried,24,High,Once,Rings
+Female,Married,35,High,Twice in a year,Bracelets
+Male,Married,23,High,Twice in a year,Rings
+Male,Unmarried,45,High,Once,Rings
+Female,Married,30,High,Once,Earrings
+Female,Unmarried,48,High,Twice in a year,Bracelets
+Female,Married,18,Medium,Once,Bracelets
+Male,Unmarried,37,Medium,Twice in a year,Bracelets
+Female,Married,46,High,Once,Rings
+Male,Married,37,Medium,Once,Rings
+Female,Unmarried,47,High,Twice in a year,Bracelets
+Male,Unmarried,19,Medium,Once,Earrings
+Female,Married,20,Medium,Twice in a year,Earrings
+Male,Unmarried,47,Medium,Once,Bracelets
+Male,Unmarried,24,Medium,Once,Rings
+Male,Unmarried,19,High,Once,Rings
+Male,Unmarried,46,Medium,Twice in a year,Bracelets
+Female,Unmarried,25,High,Once,Bracelets
+Female,Unmarried,30,High,Twice in a year,Earrings
+Male,Married,47,High,Once,Rings
+Male,Unmarried,19,Medium,Once,Earrings
+Female,Unmarried,42,Medium,Twice in a year,Earrings
+Male,Married,29,Medium,Twice in a year,Earrings
+Male,Unmarried,35,High,Once,Bracelets
+Female,Unmarried,49,High,Once,Rings
+Male,Married,37,Medium,Once,Rings
+Female,Unmarried,48,Medium,Once,Earrings
+Female,Unmarried,18,High,Twice in a year,Rings
+Female,Married,31,High,Once,Earrings
+Male,Unmarried,20,High,Twice in a year,Earrings
+Male,Unmarried,47,Medium,Twice in a year,Bracelets
+Female,Married,45,High,Once,Bracelets
+Female,Married,44,Medium,Once,Bracelets
+Male,Unmarried,32,High,Twice in a year,Bracelets
+Male,Unmarried,37,Medium,Twice in a year,Earrings
+Female,Unmarried,45,Medium,Once,Bracelets
+Male,Unmarried,20,High,Once,Bracelets
+Male,Married,31,High,Once,Rings
+Female,Married,38,Medium,Twice in a year,Earrings
+Male,Unmarried,35,Medium,Twice in a year,Earrings
+Female,Married,40,High,Twice in a year,Bracelets
+Male,Unmarried,21,Medium,Twice in a year,Rings
+Female,Unmarried,49,Medium,Once,Rings
+Male,Married,45,Medium,Once,Rings
+Male,Married,46,Medium,Once,Bracelets
+Male,Married,26,High,Twice in a year,Earrings
+Male,Unmarried,19,High,Once,Bracelets
+Female,Married,27,Medium,Twice in a year,Rings
+Female,Unmarried,48,High,Twice in a year,Rings
+Female,Unmarried,41,High,Once,Bracelets
+Female,Unmarried,37,High,Twice in a year,Earrings
+Female,Unmarried,45,Medium,Twice in a year,Earrings
+Male,Married,34,High,Twice in a year,Rings
+Female,Unmarried,44,High,Twice in a year,Bracelets
+Female,Unmarried,39,Medium,Once,Bracelets
+Female,Married,30,High,Once,Earrings
+Female,Unmarried,31,Medium,Once,Rings
+Male,Unmarried,38,Medium,Twice in a year,Rings
+Female,Unmarried,33,High,Twice in a year,Rings
+Female,Married,36,Medium,Once,Earrings
+Male,Married,41,Medium,Twice in a year,Bracelets
+Female,Married,24,High,Twice in a year,Bracelets
+Female,Unmarried,38,Medium,Twice in a year,Bracelets
+Female,Married,37,Medium,Once,Rings
+Female,Married,48,High,Twice in a year,Rings
+Female,Married,29,Medium,Once,Bracelets
+Female,Unmarried,40,High,Twice in a year,Bracelets
+Male,Married,32,High,Once,Bracelets
+Male,Unmarried,20,Medium,Once,Rings
+Male,Unmarried,18,High,Once,Earrings
+Male,Unmarried,42,Medium,Once,Earrings
+Male,Unmarried,25,High,Once,Rings
+Female,Unmarried,22,High,Twice in a year,Bracelets
+Male,Married,22,High,Twice in a year,Bracelets
+Female,Unmarried,30,Medium,Twice in a year,Earrings
+Female,Unmarried,35,Medium,Once,Rings
+Male,Unmarried,46,Medium,Once,Bracelets
+Female,Married,45,Medium,Once,Bracelets
+Male,Unmarried,25,Medium,Once,Earrings
+Male,Unmarried,21,High,Once,Bracelets
+Male,Unmarried,41,Medium,Once,Earrings
+Female,Unmarried,31,Medium,Twice in a year,Rings
+Female,Married,35,Medium,Twice in a year,Bracelets
+Male,Married,39,High,Twice in a year,Earrings
+Male,Married,43,Medium,Once,Bracelets
+Male,Married,36,High,Twice in a year,Bracelets
+Male,Unmarried,22,Medium,Twice in a year,Earrings
+Male,Married,25,Medium,Twice in a year,Bracelets
+Female,Unmarried,31,High,Twice in a year,Bracelets
+Female,Unmarried,33,High,Once,Rings
+Female,Married,36,High,Once,Rings
+Male,Unmarried,44,High,Twice in a year,Rings
+Female,Unmarried,24,High,Twice in a year,Rings
+Female,Unmarried,25,High,Twice in a year,Earrings
+Female,Married,23,Medium,Twice in a year,Bracelets
+Male,Unmarried,45,High,Twice in a year,Rings
+Male,Unmarried,18,High,Twice in a year,Rings
+Male,Unmarried,22,Medium,Once,Earrings
+Female,Unmarried,41,High,Twice in a year,Earrings
+Male,Married,35,High,Once,Earrings
+Male,Married,25,High,Twice in a year,Earrings
+Female,Married,29,High,Twice in a year,Bracelets
+Female,Unmarried,38,Medium,Twice in a year,Earrings
+Male,Married,38,High,Once,Rings
+Female,Unmarried,48,Medium,Once,Bracelets
+Female,Unmarried,31,High,Once,Earrings
+Male,Unmarried,26,High,Twice in a year,Bracelets
+Female,Married,35,High,Once,Bracelets
+Male,Unmarried,33,Medium,Twice in a year,Earrings
+Male,Married,26,Medium,Once,Bracelets
+Female,Unmarried,23,High,Once,Earrings
+Male,Married,47,Medium,Twice in a year,Rings
+Male,Unmarried,26,Medium,Once,Earrings
+Female,Unmarried,33,Medium,Twice in a year,Earrings
+Male,Married,31,Medium,Twice in a year,Rings
+Female,Unmarried,18,High,Twice in a year,Earrings
+Female,Unmarried,27,Medium,Once,Earrings
+Male,Married,44,High,Twice in a year,Earrings
+Male,Unmarried,35,Medium,Twice in a year,Rings
+Female,Married,25,Medium,Twice in a year,Bracelets
+Male,Unmarried,35,High,Twice in a year,Rings
+Male,Unmarried,42,Medium,Once,Earrings
+Female,Married,44,Medium,Once,Bracelets
+Female,Unmarried,38,High,Twice in a year,Rings
+Female,Unmarried,20,High,Once,Earrings
+Male,Married,36,Medium,Twice in a year,Earrings
+Female,Married,42,High,Twice in a year,Bracelets
+Female,Married,41,High,Twice in a year,Bracelets
+Female,Married,39,High,Twice in a year,Earrings
+Male,Unmarried,27,Medium,Once,Bracelets
+Female,Unmarried,29,Medium,Twice in a year,Bracelets
+Male,Unmarried,35,Medium,Once,Bracelets
+Male,Married,37,Medium,Once,Bracelets
+Male,Unmarried,18,Medium,Twice in a year,Bracelets
+Female,Unmarried,26,Medium,Once,Rings
+Male,Unmarried,38,High,Twice in a year,Bracelets
+Female,Unmarried,19,High,Once,Bracelets
+Male,Married,39,High,Once,Earrings
+Female,Married,45,High,Once,Earrings
+Male,Unmarried,20,High,Twice in a year,Rings
+Female,Unmarried,36,Medium,Twice in a year,Bracelets
+Female,Married,33,High,Twice in a year,Rings
+Female,Unmarried,32,High,Once,Earrings
+Male,Married,42,High,Once,Rings
+Female,Married,21,Medium,Twice in a year,Rings
+Male,Unmarried,23,Medium,Once,Earrings
+Male,Married,50,Medium,Once,Rings
+Male,Married,33,High,Twice in a year,Bracelets
+Female,Unmarried,43,Medium,Once,Bracelets
+Female,Married,34,Medium,Twice in a year,Bracelets
+Female,Unmarried,32,High,Twice in a year,Rings
+Female,Married,29,High,Once,Bracelets
+Male,Married,18,High,Twice in a year,Rings
+Female,Unmarried,18,High,Twice in a year,Earrings
+Male,Unmarried,23,Medium,Once,Bracelets
+Male,Unmarried,24,Medium,Twice in a year,Bracelets
+Male,Married,37,High,Twice in a year,Rings
+Female,Married,38,Medium,Once,Earrings
+Male,Unmarried,18,Medium,Once,Rings
+Male,Unmarried,39,High,Twice in a year,Rings
+Female,Unmarried,27,High,Twice in a year,Rings
+Male,Married,49,High,Once,Rings
+Female,Unmarried,34,High,Twice in a year,Rings
+Female,Unmarried,49,High,Once,Earrings
+Male,Unmarried,44,Medium,Once,Earrings
+Female,Married,44,Medium,Twice in a year,Rings
+Male,Married,35,High,Twice in a year,Earrings
+Male,Married,45,Medium,Twice in a year,Rings
+Female,Married,18,High,Twice in a year,Earrings
+Female,Married,25,High,Once,Bracelets
+Male,Married,47,High,Twice in a year,Rings
+Female,Unmarried,50,High,Twice in a year,Bracelets
+Male,Married,24,High,Once,Rings
+Male,Unmarried,22,Medium,Once,Earrings
+Male,Unmarried,33,Medium,Once,Earrings
+Female,Unmarried,46,High,Once,Earrings
+Female,Unmarried,28,Medium,Twice in a year,Rings
+Male,Married,19,Medium,Twice in a year,Earrings
+Male,Unmarried,47,Medium,Twice in a year,Rings
+Female,Unmarried,41,High,Once,Earrings
+Male,Unmarried,40,Medium,Twice in a year,Rings
+Female,Unmarried,43,High,Twice in a year,Earrings
+Male,Married,42,Medium,Twice in a year,Earrings
+Male,Unmarried,22,High,Twice in a year,Earrings
+Male,Married,23,High,Twice in a year,Earrings
+Female,Married,23,Medium,Twice in a year,Rings
+Male,Unmarried,47,High,Once,Bracelets
+Male,Married,36,High,Twice in a year,Earrings
+Female,Unmarried,49,High,Twice in a year,Bracelets
+Female,Unmarried,27,Medium,Once,Bracelets
+Female,Unmarried,36,Medium,Once,Earrings
+Female,Married,48,High,Twice in a year,Bracelets
+Female,Married,42,High,Twice in a year,Rings
+Female,Unmarried,20,Medium,Twice in a year,Bracelets
+Female,Married,38,Medium,Twice in a year,Bracelets
+Female,Unmarried,19,High,Twice in a year,Rings
+Female,Married,44,High,Once,Earrings
+Male,Unmarried,29,High,Once,Earrings
+Female,Unmarried,32,Medium,Twice in a year,Earrings
+Male,Married,37,Medium,Twice in a year,Bracelets
+Female,Married,20,Medium,Twice in a year,Rings
+Female,Married,41,Medium,Once,Rings
+Male,Unmarried,27,Medium,Twice in a year,Earrings
+Male,Married,37,High,Once,Bracelets
+Male,Married,36,Medium,Once,Earrings
+Female,Married,46,High,Once,Bracelets
+Male,Married,43,Medium,Once,Earrings
+Male,Married,43,Medium,Twice in a year,Bracelets
+Male,Unmarried,47,High,Twice in a year,Earrings
+Female,Unmarried,49,High,Once,Rings
+Male,Married,32,Medium,Twice in a year,Earrings
+Male,Married,46,High,Twice in a year,Earrings
+Female,Married,43,High,Once,Rings
+Male,Married,37,Medium,Twice in a year,Bracelets
+Male,Unmarried,30,Medium,Once,Earrings
+Female,Unmarried,28,Medium,Once,Earrings
+Female,Unmarried,38,Medium,Twice in a year,Rings
+Male,Married,24,High,Once,Bracelets
+Female,Married,34,Medium,Twice in a year,Bracelets
+Female,Unmarried,39,High,Once,Earrings
+Female,Unmarried,43,Medium,Once,Earrings
+Female,Unmarried,31,High,Twice in a year,Earrings
+Male,Unmarried,19,Medium,Once,Bracelets
+Female,Married,25,High,Once,Earrings
+Male,Unmarried,37,Medium,Once,Rings
+Male,Married,19,High,Twice in a year,Earrings
+Female,Unmarried,42,High,Once,Rings
+Female,Unmarried,34,Medium,Twice in a year,Earrings
+Female,Unmarried,22,High,Twice in a year,Earrings
+Male,Married,32,High,Twice in a year,Bracelets
+Female,Married,39,Medium,Twice in a year,Rings
+Male,Unmarried,26,High,Once,Rings
+Female,Married,26,High,Twice in a year,Earrings
+Female,Unmarried,23,Medium,Once,Rings
+Female,Unmarried,33,Medium,Once,Earrings
+Female,Unmarried,43,High,Twice in a year,Rings
+Male,Unmarried,48,Medium,Twice in a year,Rings
+Male,Married,24,Medium,Once,Rings
+Female,Unmarried,21,High,Once,Rings
+Male,Unmarried,29,High,Twice in a year,Bracelets
+Female,Unmarried,29,Medium,Once,Earrings
+Male,Unmarried,41,Medium,Twice in a year,Bracelets
+Female,Unmarried,40,High,Twice in a year,Rings
+Female,Unmarried,29,High,Twice in a year,Bracelets
+Female,Unmarried,49,Medium,Once,Earrings
+Female,Unmarried,21,High,Twice in a year,Earrings
+Female,Unmarried,49,Medium,Once,Earrings
+Female,Married,35,Medium,Twice in a year,Earrings
+Male,Married,35,Medium,Twice in a year,Bracelets
+Male,Married,27,Medium,Once,Rings
+Female,Unmarried,50,High,Twice in a year,Earrings
+Male,Unmarried,44,Medium,Once,Earrings
+Male,Married,42,Medium,Twice in a year,Bracelets
+Male,Married,28,High,Twice in a year,Earrings
+Male,Married,25,High,Twice in a year,Rings
+Male,Unmarried,30,Medium,Twice in a year,Earrings
+Male,Married,43,Medium,Twice in a year,Earrings
+Female,Unmarried,24,Medium,Twice in a year,Earrings
+Female,Married,39,High,Once,Bracelets
+Male,Unmarried,44,High,Twice in a year,Earrings
+Female,Unmarried,33,Medium,Once,Earrings
+Female,Unmarried,46,Medium,Once,Bracelets
+Male,Married,21,Medium,Twice in a year,Rings
+Male,Unmarried,46,High,Once,Rings
+Male,Married,47,High,Twice in a year,Earrings
+Male,Unmarried,20,Medium,Once,Rings
+Female,Married,32,Medium,Once,Rings
+Male,Unmarried,26,High,Once,Bracelets
+Male,Unmarried,43,High,Twice in a year,Earrings
+Male,Unmarried,38,Medium,Twice in a year,Bracelets
+Male,Married,26,High,Once,Earrings
+Female,Married,18,Medium,Twice in a year,Earrings
+Female,Married,30,Medium,Once,Rings
+Male,Unmarried,29,High,Once,Earrings
+Male,Married,23,High,Twice in a year,Earrings
+Male,Unmarried,18,Medium,Once,Earrings
+Male,Unmarried,43,High,Once,Rings
+Male,Unmarried,28,Medium,Twice in a year,Bracelets
+Female,Unmarried,49,Medium,Once,Bracelets
+Female,Married,50,Medium,Once,Rings
+Male,Unmarried,50,High,Once,Bracelets
+Male,Married,35,Medium,Twice in a year,Earrings
+Male,Married,33,High,Once,Bracelets
+Female,Married,47,Medium,Once,Rings
+Female,Married,28,Medium,Once,Rings
+Female,Unmarried,40,High,Once,Rings
+Male,Unmarried,26,Medium,Twice in a year,Bracelets
+Female,Married,49,Medium,Twice in a year,Bracelets
+Male,Unmarried,26,Medium,Twice in a year,Earrings
+Female,Unmarried,22,High,Twice in a year,Earrings
+Female,Unmarried,41,High,Twice in a year,Bracelets
+Female,Married,23,Medium,Once,Rings
+Male,Married,47,High,Twice in a year,Bracelets
+Female,Married,23,High,Twice in a year,Rings
+Male,Married,39,Medium,Twice in a year,Earrings
+Female,Married,35,Medium,Once,Rings
+Female,Unmarried,24,Medium,Twice in a year,Rings
+Female,Unmarried,45,High,Once,Earrings
+Female,Married,34,High,Twice in a year,Rings
+Male,Unmarried,41,High,Once,Earrings
+Male,Married,50,Medium,Twice in a year,Rings
+Female,Unmarried,44,High,Twice in a year,Rings
+Male,Married,39,Medium,Once,Earrings
+Female,Married,41,High,Once,Bracelets
+Male,Unmarried,22,High,Once,Earrings
+Male,Unmarried,30,Medium,Once,Bracelets
+Male,Married,45,Medium,Once,Rings
+Female,Unmarried,28,High,Twice in a year,Earrings
+Female,Unmarried,50,Medium,Twice in a year,Earrings
+Female,Unmarried,30,Medium,Once,Bracelets
+Female,Married,31,High,Once,Rings
+Female,Married,45,Medium,Once,Rings
+Male,Unmarried,32,High,Twice in a year,Bracelets
+Female,Unmarried,18,Medium,Twice in a year,Earrings
+Male,Unmarried,37,Medium,Twice in a year,Rings
+Male,Married,21,High,Twice in a year,Rings
+Female,Married,33,High,Twice in a year,Bracelets
+Male,Unmarried,38,High,Twice in a year,Rings
+Male,Married,30,High,Once,Rings
+Male,Married,19,Medium,Twice in a year,Earrings
+Male,Married,39,High,Once,Rings
+Male,Married,46,Medium,Once,Bracelets
+Male,Unmarried,27,High,Twice in a year,Earrings
+Male,Unmarried,37,High,Once,Earrings
+Male,Unmarried,47,High,Once,Bracelets
+Male,Unmarried,19,Medium,Once,Earrings
+Male,Married,46,Medium,Once,Rings
+Female,Married,38,High,Once,Bracelets
+Female,Married,19,Medium,Twice in a year,Rings
+Female,Married,44,High,Twice in a year,Rings
+Male,Married,50,Medium,Once,Bracelets
+Female,Married,28,High,Twice in a year,Earrings
+Female,Married,25,High,Once,Earrings
+Female,Unmarried,50,Medium,Once,Earrings
+Male,Married,22,High,Once,Earrings
+Male,Unmarried,24,Medium,Twice in a year,Bracelets
+Female,Married,29,High,Once,Rings
+Female,Married,19,High,Twice in a year,Earrings
+Male,Married,18,Medium,Twice in a year,Earrings
+Female,Married,25,High,Twice in a year,Earrings
+Female,Married,39,High,Twice in a year,Rings
+Male,Married,37,Medium,Once,Bracelets
+Male,Married,38,Medium,Once,Earrings
+Male,Married,25,Medium,Once,Earrings
+Female,Unmarried,18,Medium,Twice in a year,Earrings
+Male,Married,25,High,Once,Bracelets
+Male,Unmarried,26,High,Once,Rings
+Male,Married,19,Medium,Once,Rings
+Female,Married,44,High,Twice in a year,Bracelets
+Female,Married,43,Medium,Twice in a year,Rings
+Male,Unmarried,21,Medium,Twice in a year,Earrings
+Male,Unmarried,49,High,Twice in a year,Rings
+Male,Unmarried,42,High,Once,Rings
+Female,Unmarried,28,Medium,Once,Bracelets
+Female,Married,27,Medium,Twice in a year,Rings
+Male,Unmarried,22,High,Twice in a year,Rings
+Male,Married,43,High,Twice in a year,Earrings
+Female,Unmarried,42,High,Once,Rings
+Male,Unmarried,35,Medium,Twice in a year,Earrings
+Male,Married,21,High,Twice in a year,Bracelets
+Male,Unmarried,42,Medium,Twice in a year,Rings
+Female,Married,20,Medium,Twice in a year,Bracelets
+Male,Married,39,High,Once,Rings
+Female,Unmarried,27,High,Twice in a year,Rings
+Female,Unmarried,22,Medium,Once,Rings
+Male,Unmarried,38,High,Once,Bracelets
+Male,Married,46,Medium,Once,Bracelets
+Female,Married,23,Medium,Twice in a year,Bracelets
+Male,Unmarried,46,Medium,Twice in a year,Rings
+Male,Unmarried,49,High,Twice in a year,Rings
+Male,Unmarried,45,High,Twice in a year,Rings
+Female,Married,33,High,Once,Rings
+Female,Unmarried,44,Medium,Once,Rings
+Male,Married,37,High,Once,Bracelets
+Male,Unmarried,25,Medium,Once,Earrings
+Male,Unmarried,20,High,Twice in a year,Rings
+Male,Married,21,High,Once,Rings
+Female,Unmarried,45,High,Twice in a year,Earrings
+Female,Unmarried,26,Medium,Once,Bracelets
+Male,Unmarried,34,High,Once,Earrings
+Male,Unmarried,32,High,Once,Earrings
+Male,Married,43,High,Twice in a year,Rings
+Female,Married,28,Medium,Once,Earrings
+Male,Unmarried,42,Medium,Once,Rings
+Female,Unmarried,33,High,Once,Rings
+Female,Married,47,Medium,Twice in a year,Bracelets
+Male,Married,26,High,Twice in a year,Bracelets
+Male,Married,41,Medium,Once,Rings
+Female,Married,18,Medium,Twice in a year,Bracelets
+Female,Unmarried,25,Medium,Once,Bracelets
+Male,Married,48,Medium,Once,Earrings
+Male,Married,22,Medium,Once,Rings
+Male,Unmarried,18,Medium,Twice in a year,Rings
+Female,Unmarried,39,High,Once,Earrings
+Male,Unmarried,27,High,Once,Earrings
+Male,Married,38,High,Twice in a year,Bracelets
+Male,Married,25,High,Once,Bracelets
+Male,Married,42,High,Twice in a year,Earrings
+Female,Unmarried,43,High,Twice in a year,Rings
+Male,Married,18,High,Once,Earrings
+Female,Unmarried,41,High,Once,Bracelets
+Male,Married,27,High,Once,Rings
+Male,Married,20,Medium,Twice in a year,Rings
+Male,Unmarried,18,Medium,Once,Rings
+Male,Unmarried,50,High,Twice in a year,Rings
+Male,Married,47,High,Once,Earrings
+Male,Married,43,Medium,Once,Earrings
+Male,Married,47,Medium,Twice in a year,Earrings
+Female,Married,23,High,Once,Earrings
+Male,Married,36,High,Once,Earrings
+Male,Unmarried,37,Medium,Twice in a year,Earrings
+Male,Unmarried,47,Medium,Once,Bracelets
+Male,Unmarried,35,High,Once,Earrings
+Female,Unmarried,38,Medium,Twice in a year,Rings
+Female,Unmarried,45,Medium,Twice in a year,Rings
+Female,Unmarried,32,High,Once,Earrings
+Male,Unmarried,50,Medium,Twice in a year,Rings
+Male,Married,23,Medium,Twice in a year,Bracelets
+Female,Married,18,Medium,Twice in a year,Rings
+Female,Married,45,High,Once,Rings
+Female,Married,44,High,Twice in a year,Rings
+Male,Married,26,Medium,Twice in a year,Bracelets
+Male,Unmarried,48,Medium,Twice in a year,Earrings
+Male,Unmarried,26,High,Twice in a year,Earrings
+Male,Married,31,Medium,Twice in a year,Earrings
+Female,Unmarried,31,Medium,Twice in a year,Rings
+Female,Unmarried,22,High,Twice in a year,Rings
+Female,Unmarried,42,Medium,Once,Earrings
+Female,Married,44,Medium,Twice in a year,Earrings
+Female,Married,50,High,Once,Rings
+Male,Married,30,Medium,Once,Rings
+Male,Married,44,Medium,Twice in a year,Earrings
+Female,Unmarried,24,Medium,Once,Bracelets
+Male,Married,32,High,Twice in a year,Earrings
+Female,Married,38,High,Once,Bracelets
+Female,Unmarried,26,High,Twice in a year,Rings
+Male,Unmarried,26,Medium,Twice in a year,Bracelets
+Female,Married,49,High,Once,Rings
+Male,Married,32,High,Once,Bracelets
+Female,Married,26,Medium,Twice in a year,Bracelets
+Male,Unmarried,43,High,Once,Earrings
+Female,Unmarried,27,High,Once,Earrings
+Female,Unmarried,47,Medium,Twice in a year,Earrings
+Male,Married,45,Medium,Twice in a year,Earrings
+Female,Unmarried,19,Medium,Twice in a year,Rings
+Male,Unmarried,28,High,Once,Bracelets
+Female,Married,35,High,Twice in a year,Earrings
+Female,Married,31,High,Twice in a year,Rings
+Female,Married,26,Medium,Twice in a year,Earrings
+Male,Unmarried,23,Medium,Twice in a year,Earrings
+Male,Unmarried,48,Medium,Once,Rings
+Male,Married,32,Medium,Twice in a year,Rings
+Female,Unmarried,41,High,Once,Earrings
+Male,Married,19,High,Once,Bracelets
+Female,Unmarried,33,Medium,Once,Rings
+Female,Unmarried,24,Medium,Once,Bracelets
+Male,Married,39,High,Twice in a year,Bracelets
+Female,Married,27,Medium,Once,Rings
+Male,Married,23,Medium,Once,Rings
+Female,Married,29,High,Twice in a year,Bracelets
+Female,Married,21,Medium,Twice in a year,Earrings
+Male,Married,44,Medium,Once,Bracelets
+Female,Unmarried,32,Medium,Once,Rings
+Male,Married,25,High,Once,Earrings
+Female,Married,28,Medium,Twice in a year,Rings
+Female,Unmarried,25,High,Once,Earrings
+Male,Unmarried,45,High,Twice in a year,Earrings
+Male,Unmarried,38,Medium,Twice in a year,Earrings
+Male,Married,41,High,Twice in a year,Earrings
+Female,Married,30,High,Twice in a year,Rings
+Male,Married,44,Medium,Twice in a year,Earrings
